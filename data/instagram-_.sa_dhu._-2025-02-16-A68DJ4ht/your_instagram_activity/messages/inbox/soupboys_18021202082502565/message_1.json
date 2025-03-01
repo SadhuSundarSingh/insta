@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "soup boys"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "soup boys",
+      "timestamp_ms": 1711995380433,
+      "content": "\u00f0\u009f\u0092\u00a5\u00f0\u009f\u0095\u00ba\u00f0\u009f\u0095\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Sa-dhu",
+          "timestamp": 1711995572
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1711994421744,
+      "content": "Kani Annan maasss ehh \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "soup boys",
+  "is_still_participant": true,
+  "thread_path": "inbox/soupboys_18021202082502565",
+  "magic_words": [
+    
+  ]
+}

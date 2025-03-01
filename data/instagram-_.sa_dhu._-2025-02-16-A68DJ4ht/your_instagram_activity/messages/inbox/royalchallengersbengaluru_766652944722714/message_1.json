@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1701084666640,
+      "content": "\u00e0\u00ae\u008e\u00e0\u00ae\u00b2\u00e0\u00af\u008d\u00e0\u00ae\u00b2\u00e0\u00af\u008b\u00e0\u00ae\u00b0\u00e0\u00af\u0081\u00e0\u00ae\u00ae\u00e0\u00af\u008d \u00e0\u00ae\u0087\u00e0\u00ae\u00a8\u00e0\u00af\u008d\u00e0\u00ae\u00a4\u00e0\u00ae\u0095\u00e0\u00af\u008d \u00e0\u00ae\u0095\u00e0\u00ae\u00a3\u00e0\u00ae\u0095\u00e0\u00af\u008d\u00e0\u00ae\u0095\u00e0\u00ae\u00bf\u00e0\u00ae\u00b1\u00e0\u00af\u008d\u00e0\u00ae\u0095\u00e0\u00af\u0081 \u00e0\u00ae\u00ae\u00e0\u00af\u0086\u00e0\u00ae\u009a\u00e0\u00af\u0087\u00e0\u00ae\u009c\u00e0\u00af\u008d \u00e0\u00ae\u0085\u00e0\u00ae\u00a9\u00e0\u00af\u0081\u00e0\u00ae\u00aa\u00e0\u00af\u008d\u00e0\u00ae\u00aa \u00e0\u00ae\u00ae\u00e0\u00af\u0081\u00e0\u00ae\u009f\u00e0\u00ae\u00bf\u00e0\u00ae\u00af\u00e0\u00ae\u00be\u00e0\u00ae\u00a4\u00e0\u00af\u0081.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1701084666332,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3245255219289688486"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1646561846904,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2787885129224390772"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Royal Challengers Bengaluru",
+  "is_still_participant": true,
+  "thread_path": "inbox/royalchallengersbengaluru_766652944722714",
+  "magic_words": [
+    
+  ]
+}

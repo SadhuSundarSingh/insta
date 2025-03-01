@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Aswin Sivakumar"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1703480649181,
+      "content": "Kochachaa kola mass \u00f0\u009f\u008c\u00b4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1692541974165,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3173594345372707454"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aswin Sivakumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/aswinsivakumar_1219450576123914",
+  "magic_words": [
+    
+  ]
+}

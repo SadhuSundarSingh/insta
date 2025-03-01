@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Meta AI"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1737306595613,
+      "content": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan, and connect. What can I help you with today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meta AI",
+  "is_still_participant": true,
+  "thread_path": "inbox/metaai_1331666175218621",
+  "magic_words": [
+    
+  ]
+}

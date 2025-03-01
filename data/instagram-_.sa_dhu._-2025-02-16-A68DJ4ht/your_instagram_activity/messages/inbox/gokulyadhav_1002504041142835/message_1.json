@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Gokul Yadhav \u00f0\u009f\u00a9\u00b7"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gokul Yadhav \u00f0\u009f\u00a9\u00b7",
+      "timestamp_ms": 1669475990050,
+      "content": "Gokul shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1669475515975,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2980098923529644856"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gokul Yadhav \u00f0\u009f\u00a9\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/gokulyadhav_1002504041142835",
+  "magic_words": [
+    
+  ]
+}

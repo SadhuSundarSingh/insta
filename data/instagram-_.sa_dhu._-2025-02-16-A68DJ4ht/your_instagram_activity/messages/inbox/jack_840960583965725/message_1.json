@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jack"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack",
+      "timestamp_ms": 1674311547995,
+      "content": "Jack sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack",
+      "timestamp_ms": 1650592207502,
+      "content": "Tysm \u00e2\u009d\u00a3\u00ef\u00b8\u008f brother",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sa-dhu",
+          "timestamp": 1650592223
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1650592184219,
+      "content": "Happy birthday jack anna \u00f0\u009f\u0092\u00a5\u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jack",
+  "is_still_participant": true,
+  "thread_path": "inbox/jack_840960583965725",
+  "magic_words": [
+    
+  ]
+}

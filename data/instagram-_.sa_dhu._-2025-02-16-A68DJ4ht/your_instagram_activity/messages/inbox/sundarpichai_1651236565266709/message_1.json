@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sundar Pichai"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1622045278918,
+      "content": "Hii anna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sundar Pichai",
+  "is_still_participant": true,
+  "thread_path": "inbox/sundarpichai_1651236565266709",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "AJ"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AJ",
+      "timestamp_ms": 1661335961064,
+      "content": "Thank you \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sa-dhu",
+          "timestamp": 1661338547
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1661310901935,
+      "content": "Many more happy returns of the day ka \u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AJ",
+  "is_still_participant": true,
+  "thread_path": "inbox/aj_948387123224472",
+  "magic_words": [
+    
+  ]
+}

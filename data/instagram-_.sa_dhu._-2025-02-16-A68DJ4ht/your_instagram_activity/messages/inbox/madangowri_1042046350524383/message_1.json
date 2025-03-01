@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Madan Gowri"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1689271612226,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3146160636426294886"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1679541369142,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3064535135849288449"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1675186724864,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1674898985852,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3025558047373234316"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1669836432212,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1669647409460,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Madan Gowri",
+  "is_still_participant": true,
+  "thread_path": "inbox/madangowri_1042046350524383",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "impressions_history_app_message": [
+    {
+      "string_map_data": {
+        "In-app message name": {
+          "value": "In-app Message 1300821386776115"
+        },
+        "Click type": {
+          "value": "Secondary Click"
+        },
+        "Count": {
+          "value": "1"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "In-app message name": {
+          "value": "In-app Message 300178691253976"
+        },
+        "Click type": {
+          "value": "Secondary Click"
+        },
+        "Count": {
+          "value": "1"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "In-app message name": {
+          "value": "In-app Message 1922644981485518"
+        },
+        "Click type": {
+          "value": "Dismiss Click"
+        },
+        "Count": {
+          "value": "2"
+        }
+      }
+    }
+  ]
+}

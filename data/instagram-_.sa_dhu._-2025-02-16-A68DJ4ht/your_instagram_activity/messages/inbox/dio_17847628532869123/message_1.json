@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Dio"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dio",
+      "timestamp_ms": 1667362007903,
+      "content": "Dio sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dio",
+      "timestamp_ms": 1667360904332,
+      "content": "Dio sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dio",
+  "is_still_participant": true,
+  "thread_path": "inbox/dio_17847628532869123",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "itz.brixxt"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "itz.brixxt",
+      "timestamp_ms": 1667401730804,
+      "content": "itz.brixxt sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "itz.brixxt",
+  "is_still_participant": true,
+  "thread_path": "message_requests/itzbrixxt_17949339215502565",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

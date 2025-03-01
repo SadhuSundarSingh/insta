@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Mathavan"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1682269527449,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathavan",
+      "timestamp_ms": 1681915811881,
+      "content": "Mathavan sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sa-dhu",
+          "timestamp": 1681953511
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1666364914977,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2953958461576205878"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mathavan",
+  "is_still_participant": true,
+  "thread_path": "inbox/mathavan_17948089925502565",
+  "magic_words": [
+    
+  ]
+}

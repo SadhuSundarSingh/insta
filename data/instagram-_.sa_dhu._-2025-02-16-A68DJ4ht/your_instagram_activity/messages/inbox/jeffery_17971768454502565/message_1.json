@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jeffery"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1680603746642,
+      "content": "Edhuku idha sent panna ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1680603741044,
+      "content": "Yoll",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1680597340623,
+      "content": "Ennala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jeffery",
+      "timestamp_ms": 1680596798200,
+      "content": "Jeffery sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jeffery",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeffery_17971768454502565",
+  "magic_words": [
+    
+  ]
+}

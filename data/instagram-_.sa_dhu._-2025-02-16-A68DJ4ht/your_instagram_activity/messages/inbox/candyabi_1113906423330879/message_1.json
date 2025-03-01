@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "candy abi"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1685859181309,
+      "content": "Anna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1685770866929,
+      "content": "Anna free ah irukum bodhu pics sent pannunga \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "candy abi",
+  "is_still_participant": true,
+  "thread_path": "inbox/candyabi_1113906423330879",
+  "magic_words": [
+    
+  ]
+}

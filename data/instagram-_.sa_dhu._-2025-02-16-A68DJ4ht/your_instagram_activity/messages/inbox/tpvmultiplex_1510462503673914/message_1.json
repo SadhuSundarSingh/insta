@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "TPV Multiplex"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1738855124921,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3562096197383351444"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TPV Multiplex",
+  "is_still_participant": true,
+  "thread_path": "inbox/tpvmultiplex_1510462503673914",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Mekkarai Park"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mekkarai Park",
+      "timestamp_ms": 1712411677670,
+      "content": "Thank you :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sa-dhu",
+          "timestamp": 1712415174
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712411581995,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mekkarai Park",
+      "timestamp_ms": 1712411569070,
+      "content": "50/- per person",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712411544233,
+      "content": "Entry fee edhum unda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mekkarai Park",
+      "timestamp_ms": 1712411506906,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mekkaraipark_18021695483502565/photos/433753476_442525414962731_7121170258188842621_n_310758555367864.jpg",
+          "creation_timestamp": 1712411506
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712389640487,
+      "content": "Adult ku ticket price enna ? (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712389627777,
+      "content": "Adult ku ticket evlo price ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712389626967,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5WjElSAp7V/?id=3339010420278206165_61772475294",
+        "share_text": "Spend your weekends at MEKKARAI AMUSEMENT PARK ,This summer!!\u00f0\u009f\u008c\u009e\n.\n.\n#themepark #amusementpark #zipline #trekking #camping #horseriding #shooting #archery #bunjeejumping #atv #humansoccer #landzorbing #summervibes #kids",
+        "original_content_owner": "mekkaraiamusementpark"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mekkarai Park",
+  "is_still_participant": true,
+  "thread_path": "inbox/mekkaraipark_18021695483502565",
+  "magic_words": [
+    
+  ]
+}

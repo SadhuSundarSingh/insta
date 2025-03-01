@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Rashid Khan"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1624255216393,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2600763691792560862"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rashid Khan",
+  "is_still_participant": true,
+  "thread_path": "inbox/rashidkhan_618776295768347",
+  "magic_words": [
+    
+  ]
+}

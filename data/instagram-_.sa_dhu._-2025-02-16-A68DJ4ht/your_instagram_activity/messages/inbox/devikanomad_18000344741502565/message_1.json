@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Devika (Nomad)"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1697660147680,
+      "content": "Akka naa new follower ennaya follow back kudungalen \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Devika (Nomad)",
+  "is_still_participant": true,
+  "thread_path": "inbox/devikanomad_18000344741502565",
+  "magic_words": [
+    
+  ]
+}

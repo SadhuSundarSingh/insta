@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Teju ashwini"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1685275773683,
+      "content": "Hii \u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1641825114802,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1641651886273,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Teju ashwini",
+  "is_still_participant": true,
+  "thread_path": "inbox/tejuashwini_178120631068289",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1739161752898,
+      "content": "\u00e0\u00ae\u00ae\u00e0\u00af\u0086\u00e0\u00ae\u009a\u00e0\u00af\u0087\u00e0\u00ae\u009c\u00e0\u00af\u0088 \u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b0\u00e0\u00af\u0081\u00e0\u00ae\u00ae\u00e0\u00af\u008d\u00e0\u00ae\u00aa\u00e0\u00ae\u00bf\u00e0\u00ae\u00af\u00e0\u00af\u0081\u00e0\u00ae\u00b3\u00e0\u00af\u008d\u00e0\u00ae\u00b3\u00e0\u00ae\u00be\u00e0\u00ae\u00b0\u00e0\u00af\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1739161748623,
+      "content": "Thank youuu \u00e2\u009c\u00a8",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1739161309935,
+      "content": "Happy birthday na",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab",
+      "timestamp_ms": 1727313077483,
+      "content": "Thank you na",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sa-dhu",
+          "timestamp": 1727313086
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1727313062039,
+      "content": "Happy Birthday to you \u00f0\u009f\u008e\u0089\u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0092\u00absanju\u00f0\u009f\u0092\u00ab",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanju_18042369023502565",
+  "magic_words": [
+    
+  ]
+}

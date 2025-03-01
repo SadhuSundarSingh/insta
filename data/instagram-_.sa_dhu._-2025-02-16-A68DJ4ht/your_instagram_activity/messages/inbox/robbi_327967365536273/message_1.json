@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Robbi"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1624589820384,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2603570539440381292"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robbi",
+  "is_still_participant": true,
+  "thread_path": "inbox/robbi_327967365536273",
+  "magic_words": [
+    
+  ]
+}

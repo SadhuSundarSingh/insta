@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Joel S"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1653206783076,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1642252736576,
+      "share": {
+        "link": "https://www.instagram.com/p/CYqB_mdP5_H/",
+        "share_text": "Tag your friends \u00f0\u009f\u0098\u0085\u00f0\u009f\u00a4\u0097\nFollow @enjoykarobey \n#enjoykarobey",
+        "original_content_owner": "enjoy.karo.bey"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1640675564103,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1631421670794,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2660855004239555114"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joel S",
+  "is_still_participant": true,
+  "thread_path": "inbox/joels_378822040545547",
+  "magic_words": [
+    
+  ]
+}

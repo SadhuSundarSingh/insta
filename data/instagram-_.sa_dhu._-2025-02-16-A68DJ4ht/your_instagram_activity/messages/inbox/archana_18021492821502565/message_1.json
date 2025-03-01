@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u00bf\u00f0\u009d\u0097\u00b0\u00f0\u009d\u0097\u00b5\u00f0\u009d\u0097\u00ae\u00f0\u009d\u0097\u00bb\u00f0\u009d\u0097\u00ae"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1712223990201,
+      "content": "Hii Akka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0097\u0094\u00f0\u009d\u0097\u00bf\u00f0\u009d\u0097\u00b0\u00f0\u009d\u0097\u00b5\u00f0\u009d\u0097\u00ae\u00f0\u009d\u0097\u00bb\u00f0\u009d\u0097\u00ae",
+  "is_still_participant": true,
+  "thread_path": "inbox/archana_18021492821502565",
+  "magic_words": [
+    
+  ]
+}

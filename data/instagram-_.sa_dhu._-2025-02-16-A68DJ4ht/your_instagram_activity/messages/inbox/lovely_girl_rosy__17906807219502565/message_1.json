@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "lovely_girl_rosy_"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1655738430616,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lovely_girl_rosy_",
+  "is_still_participant": true,
+  "thread_path": "inbox/lovely_girl_rosy__17906807219502565",
+  "magic_words": [
+    
+  ]
+}

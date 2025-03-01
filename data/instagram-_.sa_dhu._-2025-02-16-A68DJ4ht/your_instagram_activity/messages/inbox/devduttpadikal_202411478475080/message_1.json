@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Devdutt Padikal \u00f0\u009f\u00a7\u00bf"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1625628301447,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2612281951086467604"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Devdutt Padikal \u00f0\u009f\u00a7\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/devduttpadikal_202411478475080",
+  "magic_words": [
+    
+  ]
+}

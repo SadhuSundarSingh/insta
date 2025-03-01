@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "minhanna_3001"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1645182002102,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "minhanna_3001",
+  "is_still_participant": true,
+  "thread_path": "inbox/minhanna_3001_17843627240694738",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0092\u009c\u00f0\u009f\u0092\u009c"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1685511069813,
+      "content": "Adv hbd \u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1682136519053,
+      "content": "Happy Ramadan \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1672325761488,
+      "content": "How are you ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1672323003673,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0092\u009c\u00f0\u009f\u0092\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/17943427313502565",
+  "magic_words": [
+    
+  ]
+}

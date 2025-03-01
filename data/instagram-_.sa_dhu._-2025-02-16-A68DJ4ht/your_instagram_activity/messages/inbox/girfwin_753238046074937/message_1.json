@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Girfwin"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Girfwin",
+      "timestamp_ms": 1668947572419,
+      "content": "Tq tambi \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sa-dhu",
+          "timestamp": 1668948762
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1668911474869,
+      "content": "Many more happy returns of the day anna \u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Girfwin",
+      "timestamp_ms": 1637393809566,
+      "content": "Tq laa tambi \u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sa-dhu",
+          "timestamp": 1637393957
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1637371461065,
+      "content": "Happy Birthday to you annna \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Girfwin",
+  "is_still_participant": true,
+  "thread_path": "inbox/girfwin_753238046074937",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Mamitha Baiju"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1713687135862,
+      "content": "Hi Mamitha Chechiii \u00f0\u009f\u0092\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mamitha Baiju",
+  "is_still_participant": true,
+  "thread_path": "inbox/mamithabaiju_1415184929878222",
+  "magic_words": [
+    
+  ]
+}

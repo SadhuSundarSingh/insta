@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "F A F   D U  P L E S S I S"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1701084666363,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3245255219289688486"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1648474634026,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2803930798846198867"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1623909745524,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/2597865676031198854"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "F A F   D U  P L E S S I S",
+  "is_still_participant": true,
+  "thread_path": "inbox/fafduplessis_363065685331701",
+  "magic_words": [
+    
+  ]
+}

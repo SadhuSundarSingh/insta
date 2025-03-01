@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "herr\u00f0\u009f\u0090\u00a3"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "herr\u00f0\u009f\u0090\u00a3",
+      "timestamp_ms": 1738517705804,
+      "content": "Thankyouuu \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sa-dhu",
+          "timestamp": 1738520875
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1738508595309,
+      "content": "Happy birthday to you \u00f0\u009f\u00a5\u00b3",
+      "share": {
+        "link": "https://instagram.com/stories/rebishhhaa/3559185818013307028"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "herr\u00f0\u009f\u0090\u00a3",
+  "is_still_participant": true,
+  "thread_path": "inbox/herr_18058382888502565",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/profile/202412/472118382_2284412285277552_3956874561745343462_n_18038229650091203.jpg",
+          "creation_timestamp": 1735642999,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "backup_uri": "https://interncache-eag.fbcdn.net/v/t51.2885-15/472118382_2284412285277552_3956874561745343462_n.jpg?stp=dst-jpg_e35_tt6&ccb=1-7&_nc_sid=18de74&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9tZXRhX3VuaXZlcnNlL2VudGl0eS9pbnN0YWdyYW0vYmVzdF9pbWFnZSJ9&_nc_zt=23&oh=00_AYCIvICvF50Vta2sxZAl8XOGrl7meJbLHvrM31pf4aAqaA&oe=67B78AB6"
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "ipssundarsingh@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+919003759598",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "value": "Unknown",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "_.sa_dhu._",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "Sa-dhu",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "Viva La Revoluci\u00c3\u00b3n! \u00e2\u00ad\u0090\u00ef\u00b8\u008f\n\u00e0\u00ae\u0087\u00e0\u00ae\u00a9\u00e0\u00ae\u00bf\u00e0\u00ae\u00af \u00e0\u00ae\u0089\u00e0\u00ae\u00b3\u00e0\u00ae\u00b5\u00e0\u00ae\u00be\u00e0\u00ae\u0095 \u00e0\u00ae\u0087\u00e0\u00ae\u00a9\u00e0\u00af\u008d\u00e0\u00ae\u00a9\u00e0\u00ae\u00be\u00e0\u00ae\u00a4 \u00e0\u00ae\u0095\u00e0\u00af\u0082\u00e0\u00ae\u00b1\u00e0\u00ae\u00b2\u00e0\u00af\u008d\n\u00e0\u00ae\u0095\u00e0\u00ae\u00a9\u00e0\u00ae\u00bf\u00e0\u00ae\u0087\u00e0\u00ae\u00b0\u00e0\u00af\u0081\u00e0\u00ae\u00aa\u00e0\u00af\u008d\u00e0\u00ae\u00aa\u00e0\u00ae\u0095\u00e0\u00af\u008d \u00e0\u00ae\u0095\u00e0\u00ae\u00be\u00e0\u00ae\u00af\u00e0\u00af\u008d\u00e0\u00ae\u0095\u00e0\u00ae\u00b5\u00e0\u00ae\u00b0\u00e0\u00af\u008d\u00e0\u00ae\u00a8\u00e0\u00af\u008d \u00e0\u00ae\u00a4\u00e0\u00ae\u00b1\u00e0\u00af\u008d\u00e0\u00ae\u00b1\u00e0\u00af\u0081 \u00f0\u009f\u0099\u008a",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "2005-02-10",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "value": "4",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Jack\u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack\u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1739166598804,
+      "content": "\u00e0\u00ae\u00ae\u00e0\u00af\u0086\u00e0\u00ae\u009a\u00e0\u00af\u0087\u00e0\u00ae\u009c\u00e0\u00af\u0088 \u00e0\u00ae\u00b5\u00e0\u00ae\u00bf\u00e0\u00ae\u00b0\u00e0\u00af\u0081\u00e0\u00ae\u00ae\u00e0\u00af\u008d\u00e0\u00ae\u00aa\u00e0\u00ae\u00bf\u00e0\u00ae\u00af\u00e0\u00af\u0081\u00e0\u00ae\u00b3\u00e0\u00af\u008d\u00e0\u00ae\u00b3\u00e0\u00ae\u00be\u00e0\u00ae\u00b0\u00e0\u00af\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1739164063599,
+      "content": "Thank you Annaaa \u00f0\u009f\u00a4\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jack\u00f0\u009f\u0096\u00a4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack\u00f0\u009f\u0096\u00a4",
+      "timestamp_ms": 1739163583728,
+      "content": "Happy birthday da\u00f0\u009f\u008e\u0082\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jack\u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/jack_1512009770192620",
+  "magic_words": [
+    
+  ]
+}

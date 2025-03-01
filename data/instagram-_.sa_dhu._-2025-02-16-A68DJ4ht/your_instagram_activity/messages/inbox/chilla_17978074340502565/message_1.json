@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Chill\u00c3\u00a5"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1684248298331,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1684248296154,
+      "content": "Avangaluku unga naatil 2 and half aker land undoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1684248272356,
+      "content": "Naa akshy anna frnd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1684248264573,
+      "content": "Hii anna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chill\u00c3\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/chilla_17978074340502565",
+  "magic_words": [
+    
+  ]
+}

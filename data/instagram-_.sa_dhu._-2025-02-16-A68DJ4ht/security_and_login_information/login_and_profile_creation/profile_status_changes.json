@@ -1,0 +1,60 @@
+{
+  "account_history_account_active_status_changes": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Activation Type": {
+          "href": "",
+          "value": "reactivate",
+          "timestamp": 0
+        },
+        "Automated": {
+          "href": "",
+          "value": "Manual",
+          "timestamp": 0
+        },
+        "Inactivation Reason": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1649163075
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Activation Type": {
+          "href": "",
+          "value": "inactivate",
+          "timestamp": 0
+        },
+        "Automated": {
+          "href": "",
+          "value": "Automated",
+          "timestamp": 0
+        },
+        "Inactivation Reason": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1648950528
+        }
+      }
+    }
+  ]
+}

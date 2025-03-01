@@ -1,0 +1,62 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Tenkasi, Tamil Nadu"
+        },
+        {
+          "value": "Anchal, Kerala"
+        },
+        {
+          "value": "Tirunelveli, Tamil Nadu"
+        },
+        {
+          "value": "Sattur, Tamil Nadu"
+        },
+        {
+          "value": "Tamil Nadu"
+        },
+        {
+          "value": "Kerala"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    },
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Tenkasi, Tamil Nadu"
+        },
+        {
+          "value": "Anchal, Kerala"
+        },
+        {
+          "value": "Tirunelveli, Tamil Nadu"
+        },
+        {
+          "value": "Sattur, Tamil Nadu"
+        },
+        {
+          "value": "Tamil Nadu"
+        },
+        {
+          "value": "Kerala"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Instagram and show you more relevant ads. Learn more about how Instagram uses location in Privacy Center."
+    }
+  ],
+  "fbid": "17841445076929332"
+}

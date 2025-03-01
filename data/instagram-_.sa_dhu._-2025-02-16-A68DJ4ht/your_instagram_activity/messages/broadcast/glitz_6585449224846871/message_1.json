@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "HyKoo"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HyKoo",
+      "timestamp_ms": 1695298503018,
+      "content": "",
+      "reactions": [
+        {
+          "reaction": "e29da4",
+          "actor": "Sa-dhu"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HyKoo",
+      "timestamp_ms": 1699196396305,
+      "content": "",
+      "reactions": [
+        {
+          "reaction": "e29da4",
+          "actor": "Sa-dhu"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GLitz \u00f0\u009f\u0093\u00a6",
+  "is_still_participant": true,
+  "thread_path": "broadcast/glitz_6585449224846871",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 2,
+    "link": "https://www.instagram.com/channel/AbbG-2VGglHHjusI/"
+  }
+}

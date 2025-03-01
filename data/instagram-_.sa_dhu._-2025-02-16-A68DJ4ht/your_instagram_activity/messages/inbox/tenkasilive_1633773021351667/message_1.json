@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a7\u00f0\u009d\u0090\u00a4\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a2 \u00f0\u009d\u0090\u008b\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e"
+    },
+    {
+      "name": "Sa-dhu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sa-dhu",
+      "timestamp_ms": 1738855124900,
+      "share": {
+        "link": "https://instagram.com/stories/_.sa_dhu._/3562096197383351444"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a7\u00f0\u009d\u0090\u00a4\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a2 \u00f0\u009d\u0090\u008b\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00af\u00f0\u009d\u0090\u009e",
+  "is_still_participant": true,
+  "thread_path": "inbox/tenkasilive_1633773021351667",
+  "magic_words": [
+    
+  ]
+}
