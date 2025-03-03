@@ -75,6 +75,22 @@ def get_feature_2(): # Feature-2 --> List the pending request ids
         return {'feature-2': pending_follow_request_ids}, 200
     else:
         return folder_name, 200
+    
+
+@app.route('/feature-3', methods=['POST'])
+def get_feature_3(): # Feature-3 --> List the people who are all removed from user in suggestion
+    user_name = request.form.get('user_name')
+    folder_name, response_code = get_folder_name(user_name)
+    if response_code == 200:
+        folder_path = f'../data/{folder_name}'
+        removed_suggestions_json_path = f'{folder_path}/connections/followers_and_following/removed_suggestions.json'
+        removed_suggestions_json = read_json(removed_suggestions_json_path)
+        removed_suggestions_ids = []
+        for i in removed_suggestions_json['relationships_dismissed_suggested_users']:
+            removed_suggestions_ids.append(i['string_list_data'][0]['value'])
+        return {'feature-3': removed_suggestions_ids}, 200
+    else:
+        return folder_name, 200
 
 
 if __name__ == "__main__":
