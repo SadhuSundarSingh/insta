@@ -7,10 +7,13 @@ app = Flask(__name__)
 # app.config['MAX_CONTENT_LENGTH'] = 2 * 1024 * 1024 * 1024  # 2GB limit
 user_data_json_path = '../user.json'
 
-def get_folder_name(user_name:str) -> tuple[str, int]: 
-    with open(user_data_json_path, 'r') as f:
+def read_json(path:str) -> json:
+    with open(path, 'r') as f:
         f_str = f.read()
-    user_json = json.loads(f_str)
+    return(json.loads(f_str))
+
+def get_folder_name(user_name:str) -> tuple[str, int]: 
+    user_json = read_json(user_data_json_path)
     if user_name in user_json:
         return user_json[user_name], 200
     else:
@@ -23,9 +26,7 @@ def upload():
     with zipfile.ZipFile(file, 'r') as zip_ref:
         zip_ref.extractall(f'../data/{filename}')
     personal_information_json_path = f'../data/{filename}/personal_information/personal_information/personal_information.json'
-    with open(personal_information_json_path, 'r') as f:
-        f_str = f.read()
-    personal_information_json = json.loads(f_str) 
+    personal_information_json = read_json(personal_information_json_path) 
     user_name = personal_information_json['profile_user'][0]['string_map_data']['Username']['value']
     if user_entry(user_name, filename) == 200:
         return 'File uploaded successfully', 200
@@ -33,9 +34,7 @@ def upload():
         return 'Data entry side error'
 
 def user_entry(user_name:str, folder_name:str) -> int:
-    with open(user_data_json_path, 'r') as f:
-        f_str = f.read()
-    user_json = json.loads(f_str)
+    user_json = read_json(user_data_json_path)
     user_json[user_name] = folder_name
     with open(user_data_json_path, 'w') as f:
         json.dump(user_json, f)
@@ -47,8 +46,17 @@ def get_feature_1(): # Feature-1 --> List the people who are all not following b
     folder_name, response_code = get_folder_name(user_name)
     if response_code == 200:
         folder_path = f'../data/{folder_name}'
-        
-        pass
+        following_json_path = f'{folder_path}/connections/followers_and_following/following.json'
+        followers_json_path = f'{folder_path}/connections/followers_and_following/followers_1.json'
+        following_json = read_json(following_json_path)
+        followers_json = read_json(followers_json_path)
+        following_set = set()
+        followers_set = set()
+        for i in following_json['relationships_following']:
+            following_set.add(i['string_list_data'][0]['value'])
+        for i in followers_json:
+            followers_set.add(i['string_list_data'][0]['value'])
+        return {'feature-1':list(following_set - followers_set)}, 200
     else:
         return folder_name, 200
 
