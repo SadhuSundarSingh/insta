@@ -59,6 +59,22 @@ def get_feature_1(): # Feature-1 --> List the people who are all not following b
         return {'feature-1':list(following_set - followers_set)}, 200
     else:
         return folder_name, 200
+    
+
+@app.route('/feature-2', methods=['POST'])
+def get_feature_2(): # Feature-2 --> List the pending request ids
+    user_name = request.form.get('user_name')
+    folder_name, response_code = get_folder_name(user_name)
+    if response_code == 200:
+        folder_path = f'../data/{folder_name}'
+        pending_follow_request_json_path = f'{folder_path}/connections/followers_and_following/pending_follow_requests.json'
+        pending_follow_request_json = read_json(pending_follow_request_json_path)
+        pending_follow_request_ids = []
+        for i in pending_follow_request_json['relationships_follow_requests_sent']:
+            pending_follow_request_ids.append(i['string_list_data'][0]['value'])
+        return {'feature-2': pending_follow_request_ids}, 200
+    else:
+        return folder_name, 200
 
 
 if __name__ == "__main__":
